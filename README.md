@@ -51,7 +51,7 @@ I'm 16yo high school student interested in sw dev & devops \
       K8s 오브젝트 구성하기
       Ansible 맛보기
 
-  <✨> Side Project\
+  <✨> Side Project
       Discord 초대링크 생성 개발하기
       Discord 유저리스트 개발하기
 
