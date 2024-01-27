@@ -43,7 +43,7 @@ I'm 16yo high school student interested in sw dev & devops \
 
 **[2024.01.27 | 토] D +1**
 
-**이번 주 목표**
+**이번 주 목표**\
   <⚡> Problem Solving\
       알고리즘 7문제 풀이\
   
