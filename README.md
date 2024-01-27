@@ -63,6 +63,6 @@ I'm 16yo high school student interested in sw dev & devops \
 
 
 [오늘 목표]
-　<⚡️> PS 1문제 풀이               [  ]
-　<✨> 디스코드 초대링크 개발하기     [  ]
-　<☁️> 테라폼으로 ECS 서비스 구성하기 [  ]
+  <⚡️> PS 1문제 풀이               [  ]
+  <✨> 디스코드 초대링크 개발하기     [  ]
+  <☁️> 테라폼으로 ECS 서비스 구성하기 [  ]
