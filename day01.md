@@ -7,10 +7,10 @@
   
   <☁️> Cloud computing
       테라폼으로 ECS 구성하기
-      K8s 오브젝트 공부하기
+      K8s 오브젝트 구성하기
       Ansible 맛보기
 
-  <✨> Side Project\
+  <✨> Side Project
       Discord 초대링크 생성 개발하기
       Discord 유저리스트 개발하기
 
@@ -24,5 +24,5 @@
 [오늘 목표]
   [  ] <⚡️> PS 1문제 풀이
   [  ] <✨> 디스코드 초대링크 개발하기
-  [  ] <☁️> 테라폼으로 ECS 서비스 구성하기
+  [  ] <☁️> 테라폼으로 ECS 구성하기
 ```
