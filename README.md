@@ -58,9 +58,9 @@ I'm 16yo high school student interested in sw dev & devops \
 
 
 **어제 목표**\
-　[⚡️] 알고리즘 1문제 풀이\
-　[✨] Discord 서버 생성 개발하기\
-　[✨] Discord 서버 참가 개발하기
+　~~[⚡️] 알고리즘 1문제 풀이~~\
+　~~[✨] Discord 서버 생성 개발하기~~\
+　~~[✨] Discord 서버 참가 개발하기~~
 
 
 **오늘 목표**\
