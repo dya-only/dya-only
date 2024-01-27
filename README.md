@@ -40,7 +40,7 @@ I'm 16yo high school student interested in sw dev & devops \
 ```etc...```
 
 ```
-[2024.01.27 | 토] D +1
+[2024.01.28 | 일] D +2
 
 [이번 주 목표]
   <⚡> Problem Solving
