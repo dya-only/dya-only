@@ -40,7 +40,7 @@ I'm 16yo high school student interested in sw dev & devops \
 ```etc...```
 
 ```
-[2024.01.28 | 일] D +2
+[2024.01.29 | 월] D +1
 
 [이번 주 목표]
   <⚡> Problem Solving
@@ -56,13 +56,10 @@ I'm 16yo high school student interested in sw dev & devops \
       Discord 유저리스트 개발하기
 
 
-[어제 목표]
-  [✅] <⚡️> PS 1문제 풀이
-  [✅] <✨> 디스코드 서버 생성 개발하기
-  [✅] <✨> 디스코드 서버 참가 개발하기
+[어제 진행]
 
 
-[오늘 목표]
+[오늘 진행]
   [  ] <⚡️> PS 1문제 풀이
   [  ] <✨> 디스코드 초대링크 개발하기
   [  ] <☁️> 테라폼으로 ECS 구성하기
