@@ -54,13 +54,11 @@ I'm 16yo high school student interested in sw dev & devops \
   <✨> Side Project
       Discord 초대링크 생성 개발하기
       Discord 유저리스트 개발하기
+      Next14 맛보기
 
 
 [어제 진행]
 
 
 [오늘 진행]
-  [  ] <⚡️> PS 1문제 풀이
-  [  ] <✨> 디스코드 초대링크 개발하기
-  [  ] <☁️> 테라폼으로 VPC 구성해놓기
 ```
