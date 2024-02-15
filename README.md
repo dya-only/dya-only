@@ -31,7 +31,7 @@ I'm 16yo high school student interested in sw dev & devops \
 [More about me](https://notion.dya.codes)
 \
 \
-```AWS``` ```Kubernetes``` ```Node.js``` ```Nest.js``` ```Typescript```
+```AWS``` ```Kubernetes``` ```Typescript``` ```Nest.js``` ```Java```
 \
 \
 ```🥇 2023 Goorm High School Algorithm Challenge 1st``` \
