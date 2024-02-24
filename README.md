@@ -21,6 +21,10 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pltnm)](https://solved.ac/pltnm) -->
 <!-- ![dev_db](https://github.com/dya-only/dya-only/assets/51194584/09006e6b-7354-4fda-a28f-a2d383ba1660) -->
 
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=dya-only&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 <img src="https://gbatemp.net/data/avatars/o/467/467296.jpg?1634734466" width="60px" align="right">
 
 **Hi there!\
