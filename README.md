@@ -31,7 +31,7 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
 I'm [DIA](https://dya.codes) (Boseok Son) 👋**
 \
 \
-I'm 16yo high school student interested in sw dev & devops \
+I'm 17yo high school student interested in sw dev & devops \
 [More about me](https://notion.dya.codes)
 \
 \
