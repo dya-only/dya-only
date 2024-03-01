@@ -41,7 +41,7 @@ I'm 17yo high school student interested in sw dev & devops \
 
 
 ### Learned
-```Hypervisor``` ```Cloudflare``` ```Github Actions``` ```Rust``` ```Go``` ```.NET``` ```Ruby on Rails``` ```Deno``` ```Express.js``` ```Next.js``` ```Vite``` ```React``` ```Vue.js``` ```Svelte``` ```Flutter``` ```React Native``` ```SwiftUI``` ```Unity```
+```Hypervisor``` ```LXC``` ```Cloudflare``` ```Github Actions``` ```Rust``` ```Go``` ```.NET``` ```Ruby on Rails``` ```Deno``` ```Express.js``` ```Next.js``` ```Vite``` ```React``` ```Vue.js``` ```Svelte``` ```Flutter``` ```React Native``` ```SwiftUI``` ```Unity```
 
 <br/>
 
