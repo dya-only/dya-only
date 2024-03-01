@@ -34,7 +34,7 @@ I'm [DIA](https://dya.codes) (Boseok Son) 👋**
 I'm 17yo high school student interested in sw dev & devops \
 [More about me](https://notion.dya.codes)
 
-<br/><br/>
+<br/>
 
 ### Experienced
 ```AWS``` ```Kubernetes``` ```Typescript``` ```Nest.js``` ```Java```
@@ -42,8 +42,10 @@ I'm 17yo high school student interested in sw dev & devops \
 
 ### Learned
 ```Hypervisor``` ```Cloudflare``` ```Github Actions``` ```Rust``` ```Go``` ```.NET``` ```Ruby on Rails``` ```Deno``` ```Express.js``` ```Next.js``` ```Vite``` ```React``` ```Vue.js``` ```Svelte``` ```Flutter``` ```React Native``` ```SwiftUI``` ```Unity```
-\
-\
+
+<br/>
+
+### Awards
 ```🥇 2023 Goorm High School Algorithm Challenge 1st``` \
 ```🥇 2023 5th SW-AI Hackathon 1st``` \
 ```🥇 2023 2nd GBSW Algorithm Challenge 1st```\
