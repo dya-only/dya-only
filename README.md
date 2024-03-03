@@ -37,7 +37,7 @@ I'm 17yo high school student interested in sw dev & devops \
 <br/>
 
 ### Experienced
-```AWS``` ```Kubernetes``` ```Typescript``` ```Nest.js``` ```Java``` ```C```
+```AWS``` ```Kubernetes``` ```Typescript``` ```Nest.js``` ```Java```
 
 
 ### Learned & ing
