@@ -37,11 +37,11 @@ I'm 17yo high school student interested in sw dev & devops \
 <br/>
 
 ### Experienced
-```AWS``` ```Kubernetes``` ```Typescript``` ```Nest.js``` ```Java```
+```AWS``` ```Kubernetes``` ```Typescript``` ```Nest.js``` ```Go```
 
 
 ### Learned & ing
-```Hypervisor``` ```LXC``` ```Cloudflare``` ```Github Actions``` ```Go``` ```.NET``` ```Ruby on Rails``` ```Deno``` ```Express.js``` ```Next.js``` ```Vite``` ```React``` ```Vue.js``` ```Svelte``` ```Flutter``` ```React Native``` ```SwiftUI``` ```Unity```
+```Hypervisor``` ```LXC``` ```Cloudflare``` ```Github Actions``` ```Go``` ```.NET``` ```Ruby on Rails``` ```Spring boot``` ```Deno``` ```Express.js``` ```Next.js``` ```Vite``` ```React``` ```Vue.js``` ```Svelte``` ```Flutter``` ```React Native``` ```SwiftUI``` ```Unity```
 
 <br/>
 
