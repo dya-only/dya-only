@@ -41,7 +41,7 @@ I'm 17yo high school student interested in cloud computing \
 
 
 ### Learned & ing
-```Hypervisor``` ```LXC``` ```Cloudflare``` ```Github Actions``` ```Go``` ```.NET``` ```Ruby on Rails``` ```Spring boot``` ```Deno``` ```Express.js``` ```Next.js``` ```Vite``` ```React``` ```Vue.js``` ```Svelte``` ```Flutter``` ```React Native``` ```SwiftUI``` ```Unity```
+```Hypervisor``` ```LXC``` ```Terraform``` ```Cloudflare``` ```Github Actions``` ```.NET``` ```Ruby on Rails``` ```Spring boot``` ```Deno``` ```Express.js``` ```Next.js``` ```Vite``` ```React``` ```Vue.js``` ```Svelte``` ```Flutter``` ```React Native``` ```SwiftUI``` ```Unity```
 
 <br/>
 
