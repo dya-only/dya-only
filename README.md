@@ -27,6 +27,7 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
 
 <img src="https://gbatemp.net/data/avatars/o/467/467296.jpg?1634734466" width="60px" align="right">
 
+> [!Note]
 **Hi there!\
 I'm [DIA](https://dya.codes) (Boseok Son) 👋**
 \
