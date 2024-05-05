@@ -32,12 +32,12 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
 I'm [DIA](https://dya.codes) (Boseok Son) 👋**
 \
 \
-I'm 17yo high school student interested in cloud computing \
+I'm 17yo student & cloud architect \
 [More about me](https://notion.dya.codes)
 
 <br/>
 
-### Experienced
+### Skills
 ```AWS``` ```Kubernetes``` ```Typescript``` ```Nest.js``` ```Go```
 
 
