@@ -25,7 +25,7 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
 
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=dya-only&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox) -->
 
-<img src="https://gbatemp.net/data/avatars/o/467/467296.jpg?1634734466" width="60px" align="right">
+<img src="https://github.com/dya-only/dya-only/assets/51194584/699dee2f-d992-4fb2-81f3-a03657946985" width="60px" align="right">
 
 > [!Note]
 **Hi there!\
