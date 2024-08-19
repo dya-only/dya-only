@@ -35,12 +35,12 @@ I'm [DIA](https://github.com/dya-only) (Boseok Son) 👋**
 I'm 17yo Junior Cloud Architect \
 [More about me](https://notion.dya.codes)
 
-<br/>
+<br>
 
 ### Skills
 ```AWS``` ```Kubernetes``` ```Typescript``` ```Nest.js``` ```Go```
 
-<br/>
+<br>
 
 ### Awards
 ```🥇 2023 Goorm High School Algorithm Challenge 1st``` \
@@ -48,13 +48,15 @@ I'm 17yo Junior Cloud Architect \
 ```🥇 2023 2nd GBSW Algorithm Challenge 1st```\
 ```etc...```
 
-### <img src="images/aws.svg" alt="[AWS]" height="24" /> World Skills Korea - Cloud Computing ([info](https://meister.hrdkorea.or.kr/sub/3/2/1/20160512110924569100_view.do))
+<br>
+
+### <img src="images/aws.svg" alt="[AWS]" height="24" /> [World Skills Korea](https://meister.hrdkorea.or.kr/sub/3/2/1/20160512110924569100_view.do) - Cloud Computing
 
 #### 2024
 | # | Mission | Services |
 | ------------- | ------------- | ------------- |
-| [Jibang Day 1] | Web Service Provisioning | <img src="images/eks.svg" alt="" height="48" /> <img src="images/fargate.svg" alt="" height="48" /> <img src="images/documentdb.svg" alt="" height="48" /> <img src="images/elasticache.svg" alt="" height="48" /> <img src="images/secretsmanager.svg" alt="" height="48" /> |
-| [Jibang Day 2] | Automation | <img src="images/fargate.svg" alt="" height="48" /> <img src="images/s3.svg" alt="" height="48" /> <img src="images/codecommit.svg" alt="" height="48" /> <img src="images/codebuild.svg" alt="" height="48" /> <img src="images/codedeploy.svg" alt="" height="48" /> <img src="images/codepipeline.svg" alt="" height="48" /> |
-| [Korea Day 1](https://github.com/iamhansko/aws-skills/tree/main/2024/korea/day1) | | |
-| [Korea Day 2](https://github.com/iamhansko/aws-skills/tree/main/2024/korea/day2) | | |
-| [Korea Day 3](https://github.com/iamhansko/aws-skills/tree/main/2024/korea/day3) | | |
+| Jibang Day 1 | Web Service Provisioning | <img src="images/eks.svg" height="48" /> <img src="images/fargate.svg" height="48" /> <img src="images/documentdb.svg" height="48" /> <img src="images/elasticache.svg" height="48" /> <img src="images/secretsmanager.svg" height="48" /> |
+| Jibang Day 2 | Automation | <img src="images/fargate.svg" height="48" /> <img src="images/s3.svg" height="48" /> <img src="images/codecommit.svg" height="48" /> <img src="images/codebuild.svg" height="48" /> <img src="images/codedeploy.svg" height="48" /> <img src="images/codepipeline.svg" height="48" /> |
+| Korea Day 1 | Web Service Provisioning | |
+| Korea Day 2 | Small Challenge | |
+| Korea Day 3 | System Operation | |
