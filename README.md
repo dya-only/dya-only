@@ -57,6 +57,6 @@ I'm 17yo Junior Cloud Architect \
 | ------------- | ------------- | ------------- |
 | Local Day 1 | Web Service Provisioning | <img src="images/eks.svg" height="48" /> <img src="images/fargate.svg" height="48" /> <img src="images/documentdb.svg" height="48" /> <img src="images/elasticache.svg" height="48" /> <img src="images/secretsmanager.svg" height="48" /> |
 | Local Day 2 | Automation | <img src="images/fargate.svg" height="48" /> <img src="images/s3.svg" height="48" /> <img src="images/codecommit.svg" height="48" /> <img src="images/codebuild.svg" height="48" /> <img src="images/codedeploy.svg" height="48" /> <img src="images/codepipeline.svg" height="48" /> |
-| Korea Day 1 | Web Service Provisioning | |
+| Korea Day 1 | Solution Architecture | |
 | Korea Day 2 | Small Challenge | |
 | Korea Day 3 | System Operation | |
