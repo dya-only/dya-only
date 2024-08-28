@@ -43,8 +43,9 @@ I'm 17yo Junior Cloud Architect \
 <br>
 
 ### Awards
-```🥇 2023 Goorm High School Algorithm Challenge 1st``` \
+```🥈 2024 Worldskills KR Cloud Computing Awarded``` \
 ```🥇 2023 5th SW-AI Hackathon 1st``` \
+```🥇 2023 Goorm High School Algorithm Challenge 1st``` \
 ```🥇 2023 2nd GBSW Algorithm Challenge 1st```\
 ```etc...```
 
