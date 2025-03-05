@@ -32,7 +32,7 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
 I'm [DIA](https://github.com/dya-only) (Boseok Son) 👋**
 \
 \
-I'm 17yo Junior Cloud Architect \
+I'm 18yo Junior Cloud Architect \
 [More about me](https://notion.dya.codes)
 
 <br>
