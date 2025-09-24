@@ -43,7 +43,9 @@ I'm 18yo Junior Cloud Architect \
 <br>
 
 ### Awards
+```🥇 2025 60th National WorldSkills Competition - Gold Medal (Cloud Computing)``` \
 ```🥈 2024 59th National WorldSkills Competition - Silver Medal (Cloud Computing)``` \
+```🥉 2024 SKT Smarteen App+ Challenge - Excellence Awards``` \
 ```🥇 2023 5th SW-AI Hackathon 1st``` \
 ```🥇 2023 Goorm High School Algorithm Challenge 1st``` \
 ```🥇 2023 2nd GBSW Algorithm Challenge 1st```\
